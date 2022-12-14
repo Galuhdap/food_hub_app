@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-![splash_screen](https://user-images.githubusercontent.com/90491250/207607458-4c78022a-1e74-41f5-a217-c8a6017d1454.jpg)
+![splash_screen](https://user-images.githubusercontent.com/90491250/207607458-4c78022a-1e74-41f5-a217-c8a6017d1454.jpg | width=100)
 ![home](https://user-images.githubusercontent.com/90491250/207607475-abfc4e0a-9f93-450e-a3a2-dfd144497087.jpg)
 ![my_orders](https://user-images.githubusercontent.com/90491250/207607496-bfd8ed1d-3ee7-4ea3-a8db-21a2d65eeda5.jpg)
 ![favorit](https://user-images.githubusercontent.com/90491250/207607515-6bd8970f-c379-43f1-9ab0-e456b6413fa8.jpg)
